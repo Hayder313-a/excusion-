@@ -6,5 +6,11 @@ body {
 
 .header--main {
     font-weight: normal;
-    font-size:
+    font: size 50px;
+    color: #fff
+}
+
+.link--cta {
+    font: size 16px;
+    color:aquamarine;
 }
